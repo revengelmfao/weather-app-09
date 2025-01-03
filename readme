@@ -1,14 +1,15 @@
-# Servers-and-APIs 09
+# Servers and APIs
 
 ![License](https://img.shields.io/badge/License-MIT-blue.svg)
 
 ## Description
 
 Challenge code for the 9th challenge of this course
-The purpose of this tool display information pulled from an api and display it to the user.
+The purpose of this tool is to help users see the weather.
 
-## Installation
-N/A
+## Link
+
+'https://weather-app-09.onrender.com'
 
 ## Table of Contents
 
@@ -24,7 +25,7 @@ N/A
 
 ## Usage
 
-Weather Application used for viewing the weather
+Used for seeing the weather
 
 ## Contributing
 

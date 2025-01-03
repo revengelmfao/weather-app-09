@@ -6,8 +6,6 @@ dotenv.config();
 
 // Define __dirname for ES module scope
 const __filename = fileURLToPath(import.meta.url);
-// Remove the unused __dirname declaration
-// const __dirname = path.dirname(__filename);
 
 // Import the routes
 import routes from './routes/index.js';
