@@ -1,17 +1,13 @@
-# Servers-and-APIs 09
-
-![License](https://img.shields.io/badge/License-MIT-blue.svg)
-
 ## Description
 
 Challenge code for the 9th challenge of this course
 The purpose of this tool display information pulled from an api and display it to the user.
 
-## Link to the deployed application
-https://weather-app-09.onrender.com
-
 ## Installation
-N/A
+Install node and required javascript files to work the command line application built using the dependency inquirer.
+
+## Link to the deployed guide
+https://weather-app-09.onrender.com
 
 ## Table of Contents
 
@@ -27,7 +23,7 @@ N/A
 
 ## Usage
 
-Weather Application used for viewing the weather
+Used for generating easy read me md files
 
 ## Contributing
 
