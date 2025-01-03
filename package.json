@@ -1,8 +1,8 @@
 {
-  "name": "weather-dashboard",
+  "name": "weather-app",
   "version": "1.0.0",
   "description": "",
-  "main": "dist/server.js", // Ensure this points to the correct entry file
+  "main": "dist/server.js",
   "type": "module",
   "scripts": {
     "build": "npx tsc",
