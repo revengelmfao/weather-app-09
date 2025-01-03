@@ -25,6 +25,11 @@
   },
   "dependencies": {
     "@fortawesome/fontawesome-free": "^6.5.2",
+<<<<<<< HEAD
     "bootstrap": "^5.3.3"
+=======
+    "bootstrap": "^5.3.3",
+    "dotenv": "^16.4.7"
+>>>>>>> 5ebf5921561c3cebd553202da7296ee83890aec6
   }
 }
