@@ -19,7 +19,7 @@ class Weather {
 
 // Complete the WeatherService class
 class WeatherService {
-  private baseURL = 'https://api.openweathermap.org/data/2.5';
+  private baseURL = 'https://api.openweathermap.org/data/2.5/forecast?lat={lat}&lon={lon}&appid={69efba7374d15403d87de86fb440dc43}';
   private apiKey = '69efba7374d15403d87de86fb440dc43';
   private cityName: string;
 
